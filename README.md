@@ -12,4 +12,4 @@ Segmenting revenue and sales data by region, income, and membership.
 This project not only involved technical skills in database management but also required analytical thinking to extract meaningful information for decision-making.
 
 Sql file link : https://drive.google.com/file/d/1zF5jfDJjHhI8b7_U4t_KHZ6hRWx0NvN5/view?usp=sharing
-pdf file link : 
+pdf file link : https://drive.google.com/file/d/1DF-oJ8XOuG_f0XNlo4Lsz5OcSotOVIrn/view?usp=sharing
